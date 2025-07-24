@@ -18,3 +18,5 @@ The ItemAverageRecommender is a Java-based recommendation system built using Apa
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/5a142172-3bc9-4d47-9ca3-92525c59ac99)
+
